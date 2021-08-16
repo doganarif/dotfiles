@@ -51,16 +51,6 @@ nmap <C-f> :FZF<cr>
 " Tagbar
 Plug 'preservim/tagbar'
 nmap <F8> :TagbarToggle<CR>
-let g:tagbar_type_php  = {
-            \ 'ctagstype' : 'php',
-            \ 'kinds'     : [
-            \ 'i:interfaces',
-            \ 'c:classes',
-            \ 'd:constant definitions',
-            \ 'f:functions',
-            \ 'j:javascript functions:1'
-            \ ]
-            \ }
 
 " Gitgutter
 Plug 'airblade/vim-gitgutter'
@@ -251,7 +241,6 @@ autocmd cursormoved * set hlsearch
 set incsearch
 highlight Search cterm=underline
 command! H let @/="" " Remove search results
-autocmd BufWritePre *.php :%s/\s\+$//e
 
 " do not continue comments
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
