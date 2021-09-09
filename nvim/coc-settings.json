@@ -1,5 +1,15 @@
-{"python.linting.pylintArgs": [
+{
+  "python.linting.pylintArgs": [
     "--disable=C0111",
-    "--load-plugins",
-    "pylint_django"]
+    "--load-plugins=pylint_django",
+    "--errors-only"
+  ],
+
+  "languageserver": {
+    "golang": {
+      "command": "gopls",
+      "rootPatterns": ["go.mod", ".vim/", ".git/", ".hg/"],
+      "filetypes": ["go"]
     }
+  }
+}

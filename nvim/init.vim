@@ -6,12 +6,16 @@ Plug 'tpope/vim-fugitive'
 Plug 'mileszs/ack.vim'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'scrooloose/nerdcommenter'
+Plug 'folke/zen-mode.nvim'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'ekalinin/Dockerfile.vim'
+Plug 'mattn/vim-gist'
 Plug 'chr4/nginx.vim'
+Plug 'mattn/webapi-vim'
+Plug 'numkil/ag.nvim'
 Plug 'roxma/nvim-yarp'
 Plug 'wakatime/vim-wakatime'
-"Plug 'ludovicchabant/vim-gutentags'
+Plug 'ludovicchabant/vim-gutentags'
 Plug 'tpope/vim-surround'
 
 
@@ -36,12 +40,9 @@ let g:syntastic_auto_loc_list = 2
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_html_checkers=['']
-let g:syntastic_php_checkers = ['php', 'phpcs', 'phpmd']
 let g:syntastic_aggregate_errors = 1
 let g:syntastic_javascript_checkers = ['eslint']
 let g:syntastic_javascript_eslint_exec = './node_modules/.bin/eslint'
-let g:syntastic_php_phpcs_exec = './vendor/bin/phpcs'
-let g:syntastic_php_phpmd_exec = './vendor/bin/phpmd'
 
 
 " FZF
@@ -90,12 +91,6 @@ if !exists("g:UltiSnipsJumpForwardTrigger")
     let g:UltiSnipsJumpForwardTrigger = "<tab>"
 endif
 
-
-" PHP
-Plug 'StanAngeloff/php.vim'
-Plug 'phpactor/phpactor', {'for': 'php', 'tag': '*', 'do': 'composer install --no-dev -o'}
-Plug 'jwalton512/vim-blade'
-autocmd BufNewFile,BufRead *.blade.php set ft=html | set ft=phtml | set ft=blade " Fix blade auto-indent"
 
 " Vim-Markdown
 Plug 'plasticboy/vim-markdown'
@@ -150,15 +145,12 @@ let g:ale_set_balloons = 1
 let g:ale_sign_column_always = 1
 let g:ale_linters = {
     \'javascript': ['eslint'],
-    \'php': ['langserver', 'phpcs', 'phpmd', 'psalm'],
     \ 'html': ['eslint'],
     \ 'css': ['eslint'],
     \ 'json': ['eslint'],
     \ 'typescript': ['eslint'],
+    \ 'python': ['pyflakes']
     \}
-let g:ale_php_phpcs_executable = "./vendor/bin/phpcs"
-let g:ale_php_phpmd_executable = './vendor/bin/phpmd'
-let g:ale_php_phpmd_ruleset = './phpmd.xml'
 let g:ale_set_highlights = 0
 let g:ale_echo_msg_format = '%linter%: %s'
 let g:ale_fix_on_save = 1
@@ -170,7 +162,6 @@ let g:ale_fixers = {
     \ 'css': ['prettier'],
       \   'HTML': ['HTMLHint', 'proselint'],
       \   'go': ['gofmt', 'goimports'],
-     \   'php': ['phpcbf'],
     \}
 command! ALEToggleFixer execute "let g:ale_fix_on_save = get(g:, 'ale_fix_on_save', 0) ? 0 : 1"
 nmap <F9> :ALEToggleFixer<CR>
@@ -221,6 +212,7 @@ nmap <leader>gp :Gpush<cr>
 nmap <leader>gl :Gpull<cr>
 nmap <leader>gst :Gstatus<cr>
 nmap <leader>c :!composer install <cr>
+nmap <leader>z :ZenMode <cr>
 nmap cn :cn<cr>
 
 nnoremap j gj
