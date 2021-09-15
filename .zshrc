@@ -8,7 +8,7 @@ export ZSH="/Users/arifdogan/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="spaceship"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -102,7 +102,9 @@ source $ZSH/oh-my-zsh.sh
 alias vpn="sudo openvpn --config ~/.vpn/client.ovpn --auth-user-pass ~/.vpn/.vpn_credentials"
 alias vim="nvim"
 export NVM_DIR="$HOME/.nvm"
+alias gfl="git-flow"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 export GPG_TTY=$(tty)
 export PATH=$(brew --prefix openvpn)/sbin:$PATH
+eval "$(starship init zsh)"

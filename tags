@@ -16,10 +16,10 @@
 <F9>	nvim/init.vim	/^nmap <F9> :ALEToggleFixer<CR>$/;"	m
 <Tab>	nvim/init.vim	/^inoremap <expr> <Tab> pumvisible() ? coc#_select_confirm() : "<Tab>"$/;"	m
 <leader>c	nvim/init.vim	/^nmap <leader>c :!composer install <cr>$/;"	m
-<leader>gca	nvim/init.vim	/^nmap <leader>gca :Gcommit -a -S<cr>$/;"	m
-<leader>gl	nvim/init.vim	/^nmap <leader>gl :Gpull<cr>$/;"	m
-<leader>gp	nvim/init.vim	/^nmap <leader>gp :Gpush<cr>$/;"	m
-<leader>gst	nvim/init.vim	/^nmap <leader>gst :Gstatus<cr>$/;"	m
+<leader>gca	nvim/init.vim	/^nmap <leader>gca :Git commit -a -S<cr>$/;"	m
+<leader>gl	nvim/init.vim	/^nmap <leader>gl :Git pull<cr>$/;"	m
+<leader>gp	nvim/init.vim	/^nmap <leader>gp :Git push<cr>$/;"	m
+<leader>gst	nvim/init.vim	/^nmap <leader>gst :Git<cr>$/;"	m
 <leader>q	nvim/init.vim	/^nmap <leader>q :q<cr>$/;"	m
 <leader>q!	nvim/init.vim	/^nmap <leader>q! :q!<cr>$/;"	m
 <leader>qa	nvim/init.vim	/^nmap <leader>qa :qa<cr>$/;"	m

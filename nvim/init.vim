@@ -207,10 +207,10 @@ nmap <leader>w :w!<cr>
 nmap <leader>q :q<cr>
 nmap <leader>qa :qa<cr>
 nmap <leader>q! :q!<cr>
-nmap <leader>gca :Gcommit -a -S<cr>
-nmap <leader>gp :Gpush<cr>
-nmap <leader>gl :Gpull<cr>
-nmap <leader>gst :Gstatus<cr>
+nmap <leader>gca :Git commit -a -S<cr>
+nmap <leader>gp :Git push<cr>
+nmap <leader>gl :Git pull<cr>
+nmap <leader>gst :Git<cr>
 nmap <leader>c :!composer install <cr>
 nmap <leader>z :ZenMode <cr>
 nmap cn :cn<cr>
