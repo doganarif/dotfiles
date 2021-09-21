@@ -103,6 +103,8 @@ alias vpn="sudo openvpn --config ~/.vpn/client.ovpn --auth-user-pass ~/.vpn/.vpn
 alias vim="nvim"
 export NVM_DIR="$HOME/.nvm"
 alias gfl="git-flow"
+alias xx="exit"
+alias c="clear"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 export GPG_TTY=$(tty)
