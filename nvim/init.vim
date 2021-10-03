@@ -236,3 +236,5 @@ command! H let @/="" " Remove search results
 
 " do not continue comments
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
+highlight Normal ctermbg=none
+highlight NonText ctermbg=none
