@@ -1,0 +1,32 @@
+### ALIASES
+alias vim="nvim"
+alias xx="exit"
+alias c="clear"
+alias rr="source ~/.zshrc"
+alias gwd="gh run list --workflow deploy-development.yml"
+alias gwp="gh run list --workflow deploy-production.yml"
+
+
+### EXPORTS
+export GPG_TTY=$(tty)
+export NVM_DIR="$HOME/.nvm"
+export PATH=$(brew --prefix openvpn)/sbin:$PATH
+export GOPATH=$HOME/work
+export GOROOT=/usr/local/go
+export PATH=$PATH:$GOPATH/bin
+
+
+### Functions
+function gceo() {
+    git checkout $1
+    git pull
+}
+
+
+function adesktop() {
+    cp ~/.dotfiles/alacritty-automation/alacritty-desktop.yml ~/.config/alacritty/alacritty.yml
+}
+
+function amacbook() {
+    cp ~/.dotfiles/alacritty-automation/alacritty-macbook.yml ~/.config/alacritty/alacritty.yml
+}
