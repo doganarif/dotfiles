@@ -58,5 +58,6 @@ require('paq') {
   end
 };
 'Mofiqul/dracula.nvim';
+'romgrk/barbar.nvim';
 
 }
