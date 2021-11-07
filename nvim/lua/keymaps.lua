@@ -93,3 +93,7 @@ map('n', '<leader>0', ':BufferLast<CR>', default_opts)
 
 -- Close buffer
 map('n', '<leader>c', ':BufferClose<CR>', default_opts)
+
+
+--- trouble
+map('n', '<leader>ee', ':TroubleToggle<CR>', default_opts)

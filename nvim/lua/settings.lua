@@ -55,7 +55,7 @@ opt.synmaxcol = 240       -- max column for syntax highlight
 -- Colorscheme
 -----------------------------------------------------------
 opt.termguicolors = true      -- enable 24-bit RGB colors
-vim.cmd('colorscheme dracula')
+vim.cmd('colorscheme tokyodark')
 
 -----------------------------------------------------------
 -- Tabs, indent
@@ -106,3 +106,12 @@ cmd [[
 
 
 file_ignore_patterns = { "node_modules" }
+
+--- Format on Save
+
+vim.api.nvim_exec([[
+augroup FormatAutogroup
+  autocmd!
+  autocmd BufWritePost *.py,*.js,*.rs,*.lua FormatWrite
+augroup END
+]], true)

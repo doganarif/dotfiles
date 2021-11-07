@@ -31,7 +31,6 @@ require('paq') {
   'nvim-lua/plenary.nvim';
   'lewis6991/gitsigns.nvim';
   'nvim-telescope/telescope.nvim';
-  'vijaymarupudi/nvim-fzf';
   'sindrets/diffview.nvim';
   'TimUntersberger/neogit';
   "folke/zen-mode.nvim";
@@ -59,5 +58,10 @@ require('paq') {
 };
 'Mofiqul/dracula.nvim';
 'romgrk/barbar.nvim';
-
+'williamboman/nvim-lsp-installer';
+'folke/trouble.nvim';
+'ibhagwan/fzf-lua';
+'vijaymarupudi/nvim-fzf';
+'mhartington/formatter.nvim';
 }
+

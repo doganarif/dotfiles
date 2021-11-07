@@ -35,3 +35,6 @@ require('plugins/nvim-galaxyline')
 require('plugins/nvim-monokai')
 require('plugins/nvim-spectre')
 require('plugins/nvim-transparent')
+require('lsp/installer') -- LSP installer
+require('plugins/trouble')
+require('plugins/formatter')
