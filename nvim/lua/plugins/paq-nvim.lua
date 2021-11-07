@@ -63,5 +63,8 @@ require('paq') {
 'ibhagwan/fzf-lua';
 'vijaymarupudi/nvim-fzf';
 'mhartington/formatter.nvim';
+'vimwiki/vimwiki';
+'ElPiloto/telescope-vimwiki.nvim';
 }
+
 
