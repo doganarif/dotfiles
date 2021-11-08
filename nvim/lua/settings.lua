@@ -107,11 +107,3 @@ cmd [[
 
 file_ignore_patterns = { "node_modules" }
 
---- Format on Save
-
-vim.api.nvim_exec([[
-augroup FormatAutogroup
-  autocmd!
-  autocmd BufWritePost *.py,*.js,*.rs,*.lua FormatWrite
-augroup END
-]], true)

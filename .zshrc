@@ -4,6 +4,8 @@ export ZSH="/Users/arifdogan/.oh-my-zsh"
 
 ZSH_THEME="spaceship"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting docker docker-compose autoswitch_virtualenv)
+SPACESHIP_PROMPT_ORDER=(user host dir git node exec_time line_sep jobs exit_code char)
+
 
 source $ZSH/oh-my-zsh.sh
 source ~/.dotfiles/.zshconfigs
