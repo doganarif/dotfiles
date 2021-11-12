@@ -1,6 +1,6 @@
 require('formatter').setup({
   filetype = {
-    javascript = {
+    typescriptreact = {
       -- prettier
       function()
         return {

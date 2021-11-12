@@ -97,3 +97,9 @@ map('n', '<leader>c', ':BufferClose<CR>', default_opts)
 
 --- trouble
 map('n', '<leader>ee', ':TroubleToggle<CR>', default_opts)
+
+
+--- LSP
+map('n', '<space>gr', '<cmd>lua vim.lsp.buf.references()<CR>', default_opts)
+map('n', '<space>rn', '<cmd>lua vim.lsp.buf.rename()<CR>', default_opts)
+
