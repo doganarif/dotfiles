@@ -37,6 +37,7 @@ cmp.setup {
         fallback()
       end
     end,
+---
     ['<S-Tab>'] = function(fallback)
       if vim.fn.pumvisible() == 1 then
         vim.fn.feedkeys(vim.api.nvim_replace_termcodes('<C-p>', true, true, true), 'n')
@@ -53,9 +54,10 @@ cmp.setup {
     { name = 'nvim_lsp' },
     { name = 'luasnip' },
     { name = 'path' },
+    { name = 'copilot' },
     {
       name = 'buffer',
-      opts = {
+      options = {
         get_bufnrs = function()
           return vim.api.nvim_list_bufs()
         end

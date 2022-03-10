@@ -1,0 +1,3065 @@
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/etc/xdg/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+could not source "/etc/xdg/nvim/sysinit.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+could not source "$VIM/sysinit.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.config/nvim/init.lua"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/colors)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 0: sourcing "/Users/arifdogan/.config/nvim/colors/monokai.vim"
+finished sourcing /Users/arifdogan/.config/nvim/colors/monokai.vim
+continuing in nvim_exec() called at /Users/arifdogan/.config/nvim/init.lua:0
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/etc/xdg/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+not found in 'packpath': "pack/*/opt/paq-nvim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/etc/xdg/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/packer/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+not found in 'packpath': "pack/*/opt/packer.nvim"
+Error detected while processing nvim_exec() called at /Users/arifdogan/.config/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+finished sourcing /Users/arifdogan/.config/nvim/init.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/filetype.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 1: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 148: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/filetype.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/filetype.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 148: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect/norg.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect/norg.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/elixir.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/elixir.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fennel.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fennel.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fish.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fish.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fusion.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fusion.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdresource.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdresource.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdscript.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdscript.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glimmer.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glimmer.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glsl.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glsl.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gomod.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gomod.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/graphql.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/graphql.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hcl.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hcl.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/heex.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/heex.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hjson.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hjson.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/json5.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/json5.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/julia.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/julia.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ledger.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ledger.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/nix.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/nix.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/prisma.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/prisma.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/pug.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/pug.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ql.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ql.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/query.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/query.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/surface.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/surface.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/teal.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/teal.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/tlaplus.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/tlaplus.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/yang.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/yang.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/zig.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/zig.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect/gofiletype.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect/gofiletype.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2380: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect/polyglot.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect/polyglot.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+not found in runtime path: "ftdetect/*.lua"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect/norg.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neorg/ftdetect/norg.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/elixir.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/elixir.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fennel.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fennel.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fish.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fish.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fusion.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/fusion.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdresource.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdresource.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdscript.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gdscript.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glimmer.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glimmer.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glsl.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/glsl.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gomod.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/gomod.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/graphql.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/graphql.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hcl.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hcl.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/heex.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/heex.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hjson.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/hjson.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/json5.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/json5.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/julia.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/julia.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ledger.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ledger.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/nix.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/nix.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/prisma.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/prisma.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/pug.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/pug.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ql.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/ql.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/query.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/query.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/surface.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/surface.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/teal.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/teal.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/tlaplus.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/tlaplus.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/yang.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/yang.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/zig.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/ftdetect/zig.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect/gofiletype.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/ftdetect/gofiletype.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 149: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect/polyglot.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/ftdetect/polyglot.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/init.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/filetype.vim
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/filetype.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/ftplugin.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/indent.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/syntax.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 19: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/syntax.vim
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+not found in runtime path: "syntax/NvimTree.vim syntax/NvimTree/*.vim"
+not found in runtime path: "syntax/NvimTree.lua syntax/NvimTree/*.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/syntax.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/pack/*/start/*)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/private/etc/xdg/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin/polyglot.vim"
+--- Autocommands ---
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin/polyglot.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/gzip.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/health.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/health.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/man.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/man.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/pack/*/start/*)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/private/etc/xdg/nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/*/start/*)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/packer/start/packer.nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/paq-nvim)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/share/nvim/site)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/pack/dist/opt)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/pack/dist/opt/matchit/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 3: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/matchit.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/matchparen.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/netrwPlugin.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/rplugin.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/rplugin.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/shada.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/spellfile.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tarPlugin.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tohtml.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/tutor.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/plugin/zipPlugin.vim
+not found in 'packpath': "plugin/**/*.lua"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/pack/github/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/packer/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/plugin/bufferline.vim"
+not found in runtime path: "autoload/bufferline.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/autoload/bufferline)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 34: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/autoload/bufferline/highlight.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/autoload/bufferline/highlight.vim
+continuing in function bufferline#enable
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/barbar.nvim/plugin/bufferline.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/Catppuccino.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/Catppuccino.nvim/plugin/ctpcmds.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/Catppuccino.nvim/plugin/ctpcmds.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/plugin/copilot.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 73: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/plugin/copilot.vim
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/plugin/copilot.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/diffview.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/diffview.nvim/plugin/diffview.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/diffview.nvim/plugin/diffview.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/formatter.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/formatter.nvim/plugin/formatter.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/formatter.nvim/plugin/formatter.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/fzf-lua/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/fzf-lua/plugin/fzf-lua.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/fzf-lua/plugin/fzf-lua.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/galaxyline.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/galaxyline.nvim/plugin/galaxyline.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/galaxyline.nvim/plugin/galaxyline.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lazygit.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lazygit.nvim/plugin/lazygit.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lazygit.nvim/plugin/lazygit.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/LuaSnip/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/LuaSnip/plugin/luasnip.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/LuaSnip/plugin/luasnip.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lush.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lush.nvim/plugin/lush.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/lush.nvim/plugin/lush.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neogit/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neogit/plugin/neogit.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/neogit/plugin/neogit.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-cmp/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-cmp/plugin/cmp.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-cmp/plugin/cmp.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-fzf/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-fzf/plugin/nvim_fzf.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-fzf/plugin/nvim_fzf.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lsp-installer/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lsp-installer/plugin/nvim-lsp-installer.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lsp-installer/plugin/nvim-lsp-installer.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lspconfig/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lspconfig/plugin/lspconfig.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-lspconfig/plugin/lspconfig.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-transparent/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-transparent/plugin/transparent.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-transparent/plugin/transparent.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-tree.lua/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-tree.lua/plugin/nvim-tree-startup.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-tree.lua/plugin/nvim-tree-startup.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/plugin/nvim-treesitter.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-treesitter/plugin/nvim-treesitter.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-web-devicons/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-web-devicons/plugin/nvim-web-devicons.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/nvim-web-devicons/plugin/nvim-web-devicons.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/plenary.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/plenary.nvim/plugin/plenary.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/plenary.nvim/plugin/plenary.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/telescope.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/telescope.nvim/plugin/telescope.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/telescope.nvim/plugin/telescope.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/trouble.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/trouble.nvim/plugin/trouble.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/trouble.nvim/plugin/trouble.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/plugin/go.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 2: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go/config.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go/config.vim
+continuing in function <SNR>78_checkVersion
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 266: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go/util.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/autoload/go/util.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/plugin/go.vim
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-go/plugin/go.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin/polyglot.vim"
+--- Autocommands ---
+polyglot-sensible  CursorHold
+    *         silent! checktime
+	Last set from ~/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin/polyglot.vim line 79
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/plugin/polyglot.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimify/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimify/plugin/vimify.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 45: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/python3.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 10: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/pythonx.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/pythonx.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/python3.vim
+Executing command: "'/usr/local/bin/python3' '-c' 'import sys; sys.path = list(filter(lambda x: x != "", sys.path)); sys.stdout.write(str(sys.version_info[0]) + "." + str(sys.version_info[1])); import pkgutil; exit(2*int(pkgutil.get_loader("neovim") is None))'"
+
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/remote)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 23: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/remote/host.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/remote/host.vim
+continuing in /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/python3.vim
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/python3.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimify/plugin/vimify.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 14: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider.vim
+continuing in function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimify/plugin/vimify.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/plugin/vimwiki.vim"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 230: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki/vars.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki/vars.vim
+continuing in /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/plugin/vimwiki.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 41: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki/u.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/autoload/vimwiki/u.vim
+continuing in function vimwiki#vars#init[1]..<SNR>87_populate_global_variables
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vimwiki/plugin/vimwiki.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vista.vim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vista.vim/plugin/vista.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vista.vim/plugin/vista.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/zen-mode.nvim/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/zen-mode.nvim/plugin/zen-mode.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/zen-mode.nvim/plugin/zen-mode.vim
+not found in 'packpath': "start/*"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/indentLine/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/indentLine/after/plugin/indentLine.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/indentLine/after/plugin/indentLine.vim
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-buffer/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-buffer/after/plugin/cmp_buffer.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-buffer/after/plugin/cmp_buffer.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-copilot/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-copilot/after/plugin/cmp_copilot.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-copilot/after/plugin/cmp_copilot.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-nvim-lsp/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-path/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-path/after/plugin/cmp_path.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp-path/after/plugin/cmp_path.lua
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp_luasnip/after/plugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp_luasnip/after/plugin/cmp_luasnip.lua"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/cmp_luasnip/after/plugin/cmp_luasnip.lua
+Reading ShaDa file "/Users/arifdogan/.local/share/nvim/shada/main.shada" info marks oldfiles
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand if &ft == "" && expand("<afile>:e") == "" | call s:Observe() | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:IndentLinesDisable() | call s:LeadingSpaceDisable() | call s:Setup()
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 17: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/sleuth.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/autoload/polyglot/sleuth.vim
+continuing in function <SNR>4_detect_indent
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing VimEnter Autocommands for "*"
+autocommand lua require('gitsigns.manager').setup_signs_and_highlights()
+
+autocommand call PolyglotVerify()
+
+Executing VimEnter Autocommands for "*"
+autocommand call bufferline#highlight#setup()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:ColorScheme()
+
+autocommand call s:MapTab()
+
+Executing VimEnter Autocommands for "*"
+autocommand lua require('transparent').clear_bg()
+
+Executing VimEnter Autocommands for "*"
+autocommand call s:VimEnter()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider)
+chdir(/Users/arifdogan/.config/nvim/lua)
+sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/clipboard.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/autoload/provider/clipboard.vim
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+--- Terminal info --- {{{
+&term: screen-256color
+Description: GNU Screen with 256 colors
+Aliases: screen-256color
+Boolean capabilities:
+  auto_left_margin          bw         = false
+  auto_right_margin         am         = true
+  no_esc_ctlc               xsb        = false
+  ceol_standout_glitch      xhp        = false
+  eat_newline_glitch        xenl       = true
+  erase_overstrike          eo         = false
+  generic_type              gn         = false
+  hard_copy                 hc         = false
+  has_meta_key              km         = true
+  has_status_line           hs         = false
+  insert_null_glitch        in         = false
+  memory_above              da         = false
+  memory_below              db         = false
+  move_insert_mode          mir        = true
+  move_standout_mode        msgr       = true
+  over_strike               os         = false
+  status_line_esc_ok        eslok      = false
+  dest_tabs_magic_smso      xt         = false
+  tilde_glitch              hz         = false
+  transparent_underline     ul         = false
+  xon_xoff                  xon        = false
+  needs_xon_xoff            nxon       = false
+  prtr_silent               mc5i       = false
+  hard_cursor               chts       = false
+  non_rev_rmcup             nrrmc      = false
+  no_pad_char               npc        = false
+  non_dest_scroll_region    ndscr      = false
+  can_change                ccc        = false
+  back_color_erase          bce        = false
+  hue_lightness_saturation  hls        = false
+  col_addr_glitch           xhpa       = false
+  cr_cancels_micro_mode     crxm       = false
+  has_print_wheel           daisy      = false
+  row_addr_glitch           xvpa       = false
+  semi_auto_right_margin    sam        = false
+  cpi_changes_res           cpix       = false
+  lpi_changes_res           lpix       = false
+  backspaces_with_bs        OTbs       = true
+  crt_no_scrolling          OTns       = false
+  no_correctly_working_cr   OTnc       = false
+  gnu_has_meta_key          OTMT       = false
+  linefeed_is_newline       OTNL       = false
+  has_hardware_tabs         OTpt       = true
+  return_does_clr_eol       OTxr       = false
+Numeric capabilities:
+  columns                   cols       = 80
+  init_tabs                 it         = 8
+  lines                     lines      = 24
+  lines_of_memory           lm         = -1
+  magic_cookie_glitch       xmc        = -1
+  padding_baud_rate         pb         = -1
+  virtual_terminal          vt         = -1
+  width_status_line         wsl        = -1
+  num_labels                nlab       = -1
+  label_height              lh         = -1
+  label_width               lw         = -1
+  max_attributes            ma         = -1
+  maximum_windows           wnum       = -1
+  max_colors                colors     = 256
+  max_pairs                 pairs      = 32767
+  no_color_video            ncv        = 3
+  buffer_capacity           bufsz      = -1
+  dot_vert_spacing          spinv      = -1
+  dot_horz_spacing          spinh      = -1
+  max_micro_address         maddr      = -1
+  max_micro_jump            mjump      = -1
+  micro_col_size            mcs        = -1
+  micro_line_size           mls        = -1
+  number_of_pins            npins      = -1
+  output_res_char           orc        = -1
+  output_res_line           orl        = -1
+  output_res_horz_inch      orhi       = -1
+  output_res_vert_inch      orvi       = -1
+  print_rate                cps        = -1
+  wide_char_size            widcs      = -1
+  buttons                   btns       = -1
+  bit_image_entwining       bitwin     = -1
+  bit_image_type            bitype     = -1
+  magic_cookie_glitch_ul    OTug       = -1
+  carriage_return_delay     OTdC       = -1
+  new_line_delay            OTdN       = -1
+  backspace_delay           OTdB       = -1
+  horizontal_tab_delay      OTdT       = -1
+  number_of_function_keys   OTkn       = -1
+String capabilities:
+  back_tab                  cbt        = <Esc>[Z
+  bell                      bel        = <C-G>
+  carriage_return           cr         = <CR>
+  change_scroll_region      csr        = <Esc>[%i%p1%d;%p2%dr
+  clear_all_tabs            tbc        = <Esc>[3g
+  clear_screen              clear      = <Esc>[H<Esc>[J
+  clr_eol                   el         = <Esc>[K
+  clr_eos                   ed         = <Esc>[J
+  cursor_address            cup        = <Esc>[%i%p1%d;%p2%dH
+  cursor_down               cud1       = <NL>
+  cursor_home               home       = <Esc>[H
+  cursor_invisible          civis      = <Esc>[?25l
+  cursor_left               cub1       = <C-H>
+  cursor_normal             cnorm      = <Esc>[34h<Esc>[?25h
+  cursor_right              cuf1       = <Esc>[C
+  cursor_up                 cuu1       = <Esc>M
+  cursor_visible            cvvis      = <Esc>[34l
+  delete_character          dch1       = <Esc>[P
+  delete_line               dl1        = <Esc>[M
+  enter_alt_charset_mode    smacs      = <C-N>
+  enter_blink_mode          blink      = <Esc>[5m
+  enter_bold_mode           bold       = <Esc>[1m
+  enter_ca_mode             smcup      = <Esc>[?1049h
+  enter_insert_mode         smir       = <Esc>[4h
+  enter_reverse_mode        rev        = <Esc>[7m
+  enter_standout_mode       smso       = <Esc>[3m
+  enter_underline_mode      smul       = <Esc>[4m
+  exit_alt_charset_mode     rmacs      = <C-O>
+  exit_attribute_mode       sgr0       = <Esc>[m<C-O>
+  exit_ca_mode              rmcup      = <Esc>[?1049l
+  exit_insert_mode          rmir       = <Esc>[4l
+  exit_standout_mode        rmso       = <Esc>[23m
+  exit_underline_mode       rmul       = <Esc>[24m
+  flash_screen              flash      = <Esc>g
+  from_status_line          fsl        = <Esc>\
+  init_2string              is2        = <Esc>)0
+  insert_line               il1        = <Esc>[L
+  key_backspace             kbs        = <C-H>
+  key_dc                    kdch1      = <Esc>[3~
+  key_down                  kcud1      = <Esc>OB
+  key_f1                    kf1        = <Esc>OP
+  key_f10                   kf10       = <Esc>[21~
+  key_f2                    kf2        = <Esc>OQ
+  key_f3                    kf3        = <Esc>OR
+  key_f4                    kf4        = <Esc>OS
+  key_f5                    kf5        = <Esc>[15~
+  key_f6                    kf6        = <Esc>[17~
+  key_f7                    kf7        = <Esc>[18~
+  key_f8                    kf8        = <Esc>[19~
+  key_f9                    kf9        = <Esc>[20~
+  key_home                  khome      = <Esc>[1~
+  key_ic                    kich1      = <Esc>[2~
+  key_left                  kcub1      = <Esc>OD
+  key_npage                 knp        = <Esc>[6~
+  key_ppage                 kpp        = <Esc>[5~
+  key_right                 kcuf1      = <Esc>OC
+  key_up                    kcuu1      = <Esc>OA
+  keypad_local              rmkx       = <Esc>[?1l<Esc>>
+  keypad_xmit               smkx       = <Esc>[?1h<Esc>=
+  newline                   nel        = <Esc>E
+  parm_dch                  dch        = <Esc>[%p1%dP
+  parm_delete_line          dl         = <Esc>[%p1%dM
+  parm_down_cursor          cud        = <Esc>[%p1%dB
+  parm_ich                  ich        = <Esc>[%p1%d@
+  parm_insert_line          il         = <Esc>[%p1%dL
+  parm_left_cursor          cub        = <Esc>[%p1%dD
+  parm_right_cursor         cuf        = <Esc>[%p1%dC
+  parm_up_cursor            cuu        = <Esc>[%p1%dA
+  reset_2string             rs2        = <Esc>c<Esc>[?1000l<Esc>[?25h
+  restore_cursor            rc         = <Esc>8
+  save_cursor               sc         = <Esc>7
+  scroll_forward            ind        = <NL>
+  scroll_reverse            ri         = <Esc>M
+  set_attributes            sgr        = <Esc>[0%?%p6%t;1%;%?%p1%t;3%;%?%p2%t;4%;%?%p3%t;7%;%?%p4%t;5%;m%?%p9%t<C-N>%e<C-O>%;
+  set_tab                   hts        = <Esc>H
+  tab                       ht         = <Tab>
+  to_status_line            tsl        = <Esc>_
+  acs_chars                 acsc       = ++,,--..00``aaffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~
+  key_btab                  kcbt       = <Esc>[Z
+  ena_acs                   enacs      = <Esc>(B<Esc>)0
+  key_end                   kend       = <Esc>[4~
+  key_f11                   kf11       = <Esc>[23~
+  key_f12                   kf12       = <Esc>[24~
+  clr_bol                   el1        = <Esc>[1K
+  orig_pair                 op         = <Esc>[39;49m
+  key_mouse                 kmous      = <Esc>[M
+  set_a_foreground          setaf      = <Esc>[%?%p1%{8}%<%t3%p1%d%e%p1%{16}%<%t9%p1%{8}%-%d%e38;5;%p1%d%;m
+  set_a_background          setab      = <Esc>[%?%p1%{8}%<%t4%p1%d%e%p1%{16}%<%t10%p1%{8}%-%d%e48;5;%p1%d%;m
+Extended boolean capabilities:
+  AX                        = true
+  G0                        = true
+Extended string capabilities:
+  E0                        = <Esc>(B
+  S0                        = <Esc>(%p1%c
+  kDC5                      = 
+  kDC6                      = 
+  kDN                       = 
+  kDN5                      = 
+  kEND5                     = 
+  kEND6                     = 
+  kHOM5                     = 
+  kHOM6                     = 
+  kIC5                      = 
+  kIC6                      = 
+  kLFT5                     = 
+  kNXT5                     = 
+  kNXT6                     = 
+  kPRV5                     = 
+  kPRV6                     = 
+  kRIT5                     = 
+  kUP                       = 
+  kUP5                      = 
+  ka2                       = 
+  kb1                       = 
+  kb3                       = 
+  kc2                       = 
+  ext.get_bg                = <Esc>]11;?<C-G>
+  Ss                        = <Esc>[%p1%d q
+  Se                        = <Esc>[ q
+  setrgbf                   = <Esc>[38;2;%p1%d;%p2%d;%p3%dm
+  setrgbb                   = <Esc>[48;2;%p1%d;%p2%d;%p3%dm
+  ext.set_cursor_color      = <Esc>]12;#%p1%06x<C-G>
+  ext.reset_cursor_color    = <Esc>]112<C-G>
+  ext.save_title            = <Esc>[22;0t
+  ext.restore_title         = <Esc>[23;0t
+  ext.enable_lr_margin      = <Esc>[?69h
+  ext.disable_lr_margin     = <Esc>[?69l
+  ext.enable_bpaste         = <Esc>[?2004h
+  ext.disable_bpaste        = <Esc>[?2004l
+  ext.enable_focus          = <Esc>[?1004h
+  ext.disable_focus         = <Esc>[?1004l
+  ext.enable_mouse          = <Esc>[?1002h<Esc>[?1006h
+  ext.disable_mouse         = <Esc>[?1002l<Esc>[?1006l
+}}}
+
+Executing BufLeave Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertLeave')|endif
+
+Executing BufWinLeave Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand if &ft == "" && expand("<afile>:e") == "" | call s:Observe() | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:IndentLinesDisable() | call s:LeadingSpaceDisable() | call s:Setup()
+
+Executing command: "'/bin/zsh' '-c' 'git -C '/Users/arifdogan/.config/nvim/lua' rev-parse --show-toplevel'"
+
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing FocusGained Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 1: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/agent.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/agent.vim
+continuing in function <lambda>1
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 17: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/job.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/job.vim
+continuing in function <lambda>1[1]..copilot#agent#Start[4]..<SNR>99_New[1]..<SNR>99_Command
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 4: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/logger.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/copilot.vim/autoload/copilot/logger.vim
+continuing in function <lambda>1[1]..copilot#agent#Start[4]..<SNR>99_New[17]..<SNR>99_AgentRequest[3]..<SNR>99_Send
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufModifiedSet Autocommands for "*"
+autocommand call <SID>check_modified()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+
+Executing WinLeave Autocommands for "*"
+autocommand call s:Remove_Matches()
+
+Executing WinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinLeave Autocommands for "*"
+autocommand lua require("galaxyline").inactive_galaxyline()
+
+Executing WinNew Autocommands for "*"
+autocommand call s:Setup()
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing WinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+Executing BufLeave Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertLeave')|endif
+
+"~/.config/nvim/lua/settings.lua" 112L, 4441C
+Reading ShaDa file "/Users/arifdogan/.local/share/nvim/shada/main.shada" marks
+Executing BufReadPost Autocommands for "*"
+autocommand if getline(1) =~# '\v^#!%(\f*/|/usr/bin/env\s*<)fish>' |   setfiletype fish | endif
+
+Executing BufReadPost Autocommands for "*.lua"
+autocommand setf lua
+
+Executing FileType Autocommands for "lua"
+autocommand setlocal shiftwidth=2 tabstop=2
+
+Executing FileType Autocommands for "*"
+autocommand lua require("nvim-autopairs").force_attach()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/ftplugin)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 17: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/ftplugin/lua.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/ftplugin/lua.vim
+continuing in function <SNR>35_LoadFTPlugin
+not found in runtime path: "ftplugin/lua.lua ftplugin/lua_*.lua ftplugin/lua/*.lua"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/indent)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 14: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/indent/lua.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/indent/lua.vim
+continuing in function <SNR>36_LoadIndent
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/indent)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 14: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/indent/lua.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/indent/lua.vim
+continuing in function <SNR>36_LoadIndent
+not found in runtime path: "indent/lua.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/lua.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/lua.vim
+continuing in function <SNR>38_SynSet
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/lua.vim"
+finished sourcing /usr/local/Cellar/neovim/0.6.0/share/nvim/runtime/syntax/lua.vim
+continuing in function <SNR>38_SynSet
+not found in runtime path: "syntax/lua.lua syntax/lua/*.lua"
+Executing Syntax Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing FileType Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing FileType Autocommands for "*"
+autocommand lua require'nvim-treesitter.configs'.reattach_module('highlight')
+
+not found in runtime path: "parser/lua.*"
+Executing FileType Autocommands for "*"
+autocommand call s:register()
+
+Executing FileType Autocommands for "*"
+autocommand call s:Disable()
+
+Executing FileType Autocommands for "lua"
+autocommand unsilent lua require'lspconfig'["sumneko_lua"].manager.try_add()
+
+Executing BufReadPost Autocommands for "*"
+autocommand if (&ft == "" || &ft == "conf") && expand("<afile>:e") == "" | call polyglot#shebang#Detect() | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call <SID>on_buffer_open(expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.attach(nil, 'BufRead')
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand if &ft == "" && expand("<afile>:e") == "" | call s:Observe() | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:IndentLinesDisable() | call s:LeadingSpaceDisable() | call s:Setup()
+
+Executing WinClosed Autocommands for "*"
+autocommand call bufferline#update_async()
+
+Executing WinClosed Autocommands for "*"
+autocommand lua require'diffview'.trigger_event("win_closed", tonumber(vim.fn.expand("<afile>")))
+
+Executing BufWinLeave Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing DiagnosticChanged Autocommands for "*"
+autocommand lua require'trouble'.refresh({auto = true, provider = "diagnostics"})
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+
+Executing WinLeave Autocommands for "*"
+autocommand call s:Remove_Matches()
+
+Executing WinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinLeave Autocommands for "*"
+autocommand lua require("galaxyline").inactive_galaxyline()
+
+Executing WinNew Autocommands for "*"
+autocommand call s:Setup()
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing WinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufLeave Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertLeave')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand if &ft == "" && expand("<afile>:e") == "" | call s:Observe() | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:IndentLinesDisable() | call s:LeadingSpaceDisable() | call s:Setup()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+
+Executing BufLeave Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertLeave')|endif
+
+Executing WinLeave Autocommands for "*"
+autocommand call s:Remove_Matches()
+
+Executing WinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinLeave Autocommands for "*"
+autocommand lua require("galaxyline").inactive_galaxyline()
+
+Executing WinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing WinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing WinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+Executing BufLeave Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertLeave')|endif
+
+Executing BufWinLeave Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+"~/.config/nvim/lua/myVim.log" [noeol] 1773L, 97212C
+Reading ShaDa file "/Users/arifdogan/.local/share/nvim/shada/main.shada" marks
+Executing BufReadPost Autocommands for "*"
+autocommand if getline(1) =~# '\v^#!%(\f*/|/usr/bin/env\s*<)fish>' |   setfiletype fish | endif
+
+Executing BufReadPost Autocommands for "*.LOG"
+autocommand setf log
+
+Executing FileType Autocommands for "*"
+autocommand lua require("nvim-autopairs").force_attach()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in runtime path: "ftplugin/log.vim ftplugin/log_*.vim ftplugin/log/*.vim"
+not found in runtime path: "ftplugin/log.lua ftplugin/log_*.lua ftplugin/log/*.lua"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in runtime path: "indent/log.vim"
+not found in runtime path: "indent/log.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim
+continuing in function <SNR>38_SynSet
+not found in runtime path: "syntax/log.lua syntax/log/*.lua"
+Executing Syntax Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing FileType Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing FileType Autocommands for "*"
+autocommand lua require'nvim-treesitter.configs'.reattach_module('highlight')
+
+Executing FileType Autocommands for "*"
+autocommand call s:register()
+
+Executing FileType Autocommands for "*"
+autocommand call s:Disable()
+
+Executing BufReadPost Autocommands for "*.log"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*"
+autocommand if (&ft == "" || &ft == "conf") && expand("<afile>:e") == "" | call polyglot#shebang#Detect() | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call <SID>on_buffer_open(expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.attach(nil, 'BufRead')
+
+Executing BufEnter Autocommands for "*"
+autocommand set fo-=c fo-=r fo-=o
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'nvim-tree'.open_on_directory()
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufEnter Autocommands for "*"
+autocommand call s:detect_indent()
+
+Executing BufEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufEnter Autocommands for "*"
+autocommand if mode() =~# '^[iR]'|call s:Event('InsertEnter')|endif
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufEnter Autocommands for "*"
+autocommand call <SID>refresh(expand('<afile>'))
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("nvim-autopairs").on_attach()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand if &ft == "" && expand("<afile>:e") == "" | call s:Observe() | endif
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand lua require("trouble").action("on_win_enter")
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:IndentLinesDisable() | call s:LeadingSpaceDisable() | call s:Setup()
+
+Executing WinClosed Autocommands for "*"
+autocommand call bufferline#update_async()
+
+Executing WinClosed Autocommands for "*"
+autocommand lua require'diffview'.trigger_event("win_closed", tonumber(vim.fn.expand("<afile>")))
+
+Executing BufWinLeave Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+"~/.config/nvim/lua/myVim.log" 
+"~/.config/nvim/lua/myVim.log" [noeol] 2158L, 109500C
+Executing BufReadPost Autocommands for "*"
+autocommand if getline(1) =~# '\v^#!%(\f*/|/usr/bin/env\s*<)fish>' |   setfiletype fish | endif
+
+Executing BufReadPost Autocommands for "*.LOG"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*.log"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*"
+autocommand if (&ft == "" || &ft == "conf") && expand("<afile>:e") == "" | call polyglot#shebang#Detect() | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call <SID>on_buffer_open(expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.attach(nil, 'BufRead')
+
+Executing FileType Autocommands for "*"
+autocommand lua require("nvim-autopairs").force_attach()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in runtime path: "ftplugin/log.vim ftplugin/log_*.vim ftplugin/log/*.vim"
+not found in runtime path: "ftplugin/log.lua ftplugin/log_*.lua ftplugin/log/*.lua"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in runtime path: "indent/log.vim"
+not found in runtime path: "indent/log.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim
+continuing in function <SNR>38_SynSet
+not found in runtime path: "syntax/log.lua syntax/log/*.lua"
+Executing Syntax Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing FileType Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing FileType Autocommands for "*"
+autocommand lua require'nvim-treesitter.configs'.reattach_module('highlight')
+
+Executing FileType Autocommands for "*"
+autocommand call s:register()
+
+Executing FileType Autocommands for "*"
+autocommand call s:Disable()
+
+Executing FileChangedShellPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+"~/.config/nvim/lua/myVim.log" 
+"~/.config/nvim/lua/myVim.log" [noeol] 2278L, 113596C
+Executing BufReadPost Autocommands for "*"
+autocommand if getline(1) =~# '\v^#!%(\f*/|/usr/bin/env\s*<)fish>' |   setfiletype fish | endif
+
+Executing BufReadPost Autocommands for "*.LOG"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*.log"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*"
+autocommand if (&ft == "" || &ft == "conf") && expand("<afile>:e") == "" | call polyglot#shebang#Detect() | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call <SID>on_buffer_open(expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.attach(nil, 'BufRead')
+
+Executing FileType Autocommands for "*"
+autocommand lua require("nvim-autopairs").force_attach()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in runtime path: "ftplugin/log.vim ftplugin/log_*.vim ftplugin/log/*.vim"
+not found in runtime path: "ftplugin/log.lua ftplugin/log_*.lua ftplugin/log/*.lua"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in runtime path: "indent/log.vim"
+not found in runtime path: "indent/log.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim
+continuing in function <SNR>38_SynSet
+not found in runtime path: "syntax/log.lua syntax/log/*.lua"
+Executing Syntax Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing FileType Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing FileType Autocommands for "*"
+autocommand lua require'nvim-treesitter.configs'.reattach_module('highlight')
+
+Executing FileType Autocommands for "*"
+autocommand call s:register()
+
+Executing FileType Autocommands for "*"
+autocommand call s:Disable()
+
+Executing FileChangedShellPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+/spot                                                                                                                                                                           
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: spot
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorMoved Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+/Spotif                                                                                                                                                                         
+
+search hit BOTTOM, continuing at TOP
+E486: Pattern not found: Spotif
+Executing CursorHold Autocommands for "*"
+autocommand silent! checktime
+
+"~/.config/nvim/lua/myVim.log" 
+"~/.config/nvim/lua/myVim.log" [noeol] 2808L, 129980C
+Executing BufReadPost Autocommands for "*"
+autocommand if getline(1) =~# '\v^#!%(\f*/|/usr/bin/env\s*<)fish>' |   setfiletype fish | endif
+
+Executing BufReadPost Autocommands for "*.LOG"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*.log"
+autocommand setf log
+
+Executing BufReadPost Autocommands for "*"
+autocommand if (&ft == "" || &ft == "conf") && expand("<afile>:e") == "" | call polyglot#shebang#Detect() | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand call <SID>on_buffer_open(expand('<abuf>'))
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing BufReadPost Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing BufReadPost Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.attach(nil, 'BufRead')
+
+Executing FileType Autocommands for "*"
+autocommand lua require("nvim-autopairs").force_attach()
+
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+not found in runtime path: "ftplugin/log.vim ftplugin/log_*.vim ftplugin/log/*.vim"
+not found in runtime path: "ftplugin/log.lua ftplugin/log_*.lua ftplugin/log/*.lua"
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+not found in runtime path: "indent/log.vim"
+not found in runtime path: "indent/log.lua"
+Executing FileType Autocommands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax)
+chdir(/Users/arifdogan/.config/nvim/lua)
+line 25: sourcing "/Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim"
+finished sourcing /Users/arifdogan/.local/share/nvim/site/pack/paqs/start/vim-polyglot/syntax/log.vim
+continuing in function <SNR>38_SynSet
+not found in runtime path: "syntax/log.lua syntax/log/*.lua"
+Executing Syntax Autocommands for "*"
+autocommand call s:InitColor()
+
+Executing FileType Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing FileType Autocommands for "*"
+autocommand lua require'nvim-treesitter.configs'.reattach_module('highlight')
+
+Executing FileType Autocommands for "*"
+autocommand call s:register()
+
+Executing FileType Autocommands for "*"
+autocommand call s:Disable()
+
+Executing FileChangedShellPost Autocommands for "*"
+autocommand lua require("galaxyline").load_galaxyline()
+
+Executing TextChanged Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Executing BufWinLeave Autocommands for "*"
+autocommand lua require'nvim-tree.view'._prevent_buffer_override()
+
+Executing BufWinLeave Autocommands for "*"
+autocommand call bufferline#update()
+
+Executing BufUnload Autocommands for "NvimTree"
+autocommand lua require'nvim-tree.view'.View.tabpages = {}
+
+Executing VimLeavePre Autocommands for "*"
+autocommand lua vim.lsp._vim_exit_handler()
+
+Executing DiagnosticChanged Autocommands for "*"
+autocommand lua require'trouble'.refresh({auto = true, provider = "diagnostics"})
+
+Executing VimLeavePre Autocommands for "*"
+autocommand lua _G.package.loaded.gitsigns.detach_all()
+
+Writing ShaDa file "/Users/arifdogan/.local/share/nvim/shada/main.shada"
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/work/src/github.com/tenlifthw)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/work/src/github.com/tenlifthw)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/work/src/github.com/tenlifthw/db)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua/plugins)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)
+
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+chdir(/Users/arifdogan/.config/nvim/lua)
+Executing BufNew Autocommands for "*"
+autocommand call bufferline#update(v:true)

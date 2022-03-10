@@ -16,6 +16,7 @@ local opt = vim.opt         		-- global/buffer/windows-scoped options
 -- General
 -----------------------------------------------------------
 g.mapleader = ','             -- change leader to a comma
+g.spotify_token='YTA0YThiNGMxYTQ3NGFiOWI0MzllYjFkZDBkYzBiNTQ6YWNiN2E3ZGVkNzEwNGViYThlOTg1MzA0MmRmMDIxMGQ'
 opt.mouse = 'a'               -- enable mouse support
 opt.clipboard = 'unnamedplus' -- copy/paste to system clipboard
 opt.swapfile = false          -- don't use swapfile
@@ -43,6 +44,25 @@ exec([[
   augroup end
 ]], false)
 
+
+
+g.vimsence_small_text = 'NeoVim'
+g.vimsence_small_image = 'neovim'
+
+
+
+--- SYNTASTIC ---
+g.syntastic_always_populate_loc_list = 1
+g.syntastic_auto_loc_list = 2
+g.syntastic_check_on_open = 1
+g.syntastic_check_on_wq = 0
+g.syntastic_html_checkers=[['']]
+g.syntastic_php_checkers = {'php', 'phpcs', 'phpmd'}
+g.syntastic_aggregate_errors = 1
+g.syntastic_javascript_checkers = {'eslint'}
+g.syntastic_javascript_eslint_exec = './node_modules/.bin/eslint'
+g.syntastic_php_phpcs_exec = './vendor/bin/phpcs'
+
 -----------------------------------------------------------
 -- Memory, CPU
 -----------------------------------------------------------
@@ -55,8 +75,8 @@ opt.synmaxcol = 240       -- max column for syntax highlight
 -- Colorscheme
 -----------------------------------------------------------
 opt.termguicolors = true      -- enable 24-bit RGB colors
-vim.cmd('colorscheme tokyodark')
-
+g.tokyonight_style = 'night'
+vim.cmd('colorscheme tokyonight')
 -----------------------------------------------------------
 -- Tabs, indent
 -----------------------------------------------------------
@@ -81,7 +101,7 @@ cmd [[
 g.indentLine_char = '|'       -- set indentLine character
 
 -- disable IndentLine for markdown files (avoid concealing)
-cmd [[autocmd FileType markdown let g:indentLine_enabled=0]]
+cmd [[autocmd FileType markdown g.indentLine_enabled=0]]
 
 -----------------------------------------------------------
 -- Autocompletion
@@ -106,4 +126,5 @@ cmd [[
 
 
 file_ignore_patterns = { "node_modules" }
+g.syntastic_javascript_checkers=[['eslint']]
 

@@ -86,7 +86,7 @@ https://github.com/typescript-language-server/typescript-language-server
 
 -- Use a loop to conveniently call 'setup' on multiple servers and
 -- map buffer local keybindings when the language server attaches
-local servers = { 'bashls', 'clangd', 'html', 'tsserver', 'gopls' }
+local servers = { 'bashls', 'clangd', 'html', 'tsserver', 'gopls', 'phpactor' }
 
 -- Set settings for language servers below
 --

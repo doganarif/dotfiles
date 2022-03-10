@@ -5,15 +5,24 @@ alias c="clear"
 alias rr="source ~/.zshrc"
 alias gwd="gh run list --workflow deploy-development.yml"
 alias gwp="gh run list --workflow deploy-production.yml"
-
+alias devlink="ssh -A -L 5432:tenlift-dev-instance-1.c0yxz9ramllw.eu-west-1.rds.amazonaws.com:5432 -L 6379:tenlift-core-development.h2iq5x.0001.euw1.cache.amazonaws.com:6379 arif@ec2-52-31-25-135.eu-west-1.compute.amazonaws.com -N"
+alias prodlink="ssh -A -L 5432:tenlift-staging-instance-1.c0yxz9ramllw.eu-west-1.rds.amazonaws.com:5432  -L 6379:tenlift-core-cache-001.h2iq5x.0001.euw1.cache.amazonaws.com:6379 arif@ec2-52-31-25-135.eu-west-1.compute.amazonaws.com -N"
+alias k="kubectl"
+alias v="vim"
 
 ### EXPORTS
 export GPG_TTY=$(tty)
 export NVM_DIR="$HOME/.nvm"
-export PATH=$(brew --prefix openvpn)/sbin:$PATH
-export GOPATH=$HOME/work
+# export PATH=$(brew --prefix openvpn)/sbin:$PATH
 export GOROOT=/usr/local/go
+export PATH=$PATH:$GOROOT/bin
+
+export GOPATH=$HOME/work
+export PATH="$HOME/.composer/vendor/bin:$PATH"
+
+export GOPATH=$HOME/work
 export PATH=$PATH:$GOPATH/bin
+
 
 
 ### Functions
@@ -30,3 +39,8 @@ function adesktop() {
 function amacbook() {
     cp ~/.dotfiles/alacritty-automation/alacritty-macbook.yml ~/.config/alacritty/alacritty.yml
 }
+
+
+# MKVENV
+source ~/mkvenv/mkvenv.sh
+eval "$(/opt/homebrew/bin/brew shellenv)"

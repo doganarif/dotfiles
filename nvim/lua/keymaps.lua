@@ -49,9 +49,6 @@ map('n', '<C-n>', ':NvimTreeToggle<CR>', default_opts)       -- open/close
 map('n', '<leader>r', ':NvimTreeRefresh<CR>', default_opts)  -- refresh
 map('n', '<leader>n', ':NvimTreeFindFile<CR>', default_opts) -- search file
 
--- Vista tag-viewer
-map('n', '<C-m>', ':Vista!!<CR>', default_opts)   -- open/close
-
 --- Find files using Telescope command-line sugar.
 map('n','<leader>ff','<cmd>Telescope find_files<cr>', default_opts)
 map('n', '<leader>fg', '<cmd>Telescope live_grep<cr>', default_opts)
@@ -60,9 +57,6 @@ map('n', '<leader>fh', '<cmd>Telescope tags<cr>', default_opts)
 map('n', '<leader>tt', '<cmd>Telescope<cr>', default_opts)
 map('n', '<leader>fz', '<cmd>Telescope current_buffer_fuzzy_find<cr>', default_opts)
 map('n', '<leader>gt', '<cmd>Telescope tags<cr>', default_opts)
-
---- Neogit
-map('n', '<leader>ng', '<cmd>Neogit<cr>', default_opts)
 
 --- Zenmode
 map('n', '<leader>z', '<cmd>ZenMode<cr>', default_opts)
@@ -103,3 +97,8 @@ map('n', '<leader>ee', ':TroubleToggle<CR>', default_opts)
 map('n', '<space>gr', '<cmd>lua vim.lsp.buf.references()<CR>', default_opts)
 map('n', '<space>rn', '<cmd>lua vim.lsp.buf.rename()<CR>', default_opts)
 
+
+map('n', '<leader>gg', '<cmd>:LazyGit<CR>', default_opts)
+
+
+map('n', '<leader>bb', '<cmd>JABSOpen<CR>', default_opts)

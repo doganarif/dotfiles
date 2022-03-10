@@ -1,21 +1,64 @@
-require("telescope").setup {
-  defaults = {
-    file_ignore_patterns = {"venv", "node_modules"}
-    -- ...
-  },
-  pickers = {
-    find_files = {}
-  },
-  extensions = {
-    fzf = {
-      fuzzy = true, -- false will only do exact matching
-      override_generic_sorter = true, -- override the generic sorter
-      override_file_sorter = true, -- override the file sorter
-      case_mode = "smart_case" -- or "ignore_case" or "respect_case"
-      -- the default case_mode is "smart_case"
-    }
-  }
-}
+local status_ok, telescope = pcall(require, "telescope")
+if not status_ok then
+    return
+end
 
-require("telescope").load_extension("fzf")
-require('telescope').load_extension("vimwiki")
+telescope.setup({
+    defaults = {
+        vimgrep_arguments = {
+            "rg",
+            "--color=never",
+            "--no-heading",
+            "--with-filename",
+            "--line-number",
+            "--column",
+            "--smart-case",
+        },
+        prompt_prefix = "   ",
+        layout_config = {
+            preview_width = 0.7,
+            width = 0.9,
+            height = 0.9,
+        },
+        borderchars = {
+            "─",
+            "│",
+            "─",
+            "│",
+            "┌",
+            "┐",
+            "┘",
+            "└",
+        },
+        prompt_title = false,
+        file_ignore_patterns = {
+            ".git/",
+            "node_modules/",
+            "dist/",
+            "build/",
+            "venv/",
+            "bin/",
+            "vendor/",
+            "obj/",
+            "target/",
+            ".exe",
+            "__pycache__/",
+            ".vscode/",
+       },
+        color_devicons = true,
+        set_env = { ["COLORTERM"] = "truecolor" },
+        path_display = { "shorten" },
+        extensions = {
+            media_files = {
+                find_cmd = "rg",
+                filetypes = { "jpeg", "png", "jpg" },
+            },
+        },
+    },
+})
+
+if vim.fn.has("win32") ~= 1 then
+    telescope.load_extension("fzf")
+    telescope.load_extension("file_browser")
+    telescope.load_extension("media_files")
+end

@@ -34,7 +34,7 @@ local function u(code)
   return table.concat(t)
 end
 
-local function highlight(group, fg, bg, gui)
+local function highlight(group, fg, bg, gi)
   local cmd = string.format("highlight %s guifg=%s guibg=%s", group, fg, bg)
 
   if gui ~= nil then
@@ -815,4 +815,4 @@ table.insert(
     }
   }
 )
--- }}}1e
+-- }}}1eu
